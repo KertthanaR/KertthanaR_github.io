@@ -17,4 +17,4 @@
 
 
 [instagram]: https://www.instagram.com/kertthana/
-[linkedin]: https://linkedin.com/in/kertthanarajesh
+[linkedin]: https://linkedin.com/in/KertthanaRajesh
